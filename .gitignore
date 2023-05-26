@@ -1,0 +1,7 @@
+# Ignore file.txt
+
+
+# Ignore directory/
+raw_data/
+
+# Ignore all .log files in all directories
